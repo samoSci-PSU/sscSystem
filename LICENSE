@@ -1,24 +1,138 @@
-This is free and unencumbered software released into the public domain.
+SSC PROPRIETARY LICENSE
+Science Student Central Center (ระบบศูนย์กลางนักศึกษาคณะวิทยาศาสตร์)
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+Copyright (c) 2026
+Faculty of Science, Prince of Songkla University, Hat Yai Campus
+สโมสรนักศึกษาคณะวิทยาศาสตร์ มหาวิทยาลัยสงขลานครินทร์ วิทยาเขตหาดใหญ่
+All Rights Reserved.
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+1. OWNERSHIP
 
-For more information, please refer to <https://unlicense.org>
+   This software, including all source code, design assets, documentation,
+   and associated files (collectively, the "Software"), is the exclusive
+   property of the Faculty of Science Student Union, Prince of Songkla
+   University, Hat Yai Campus ("the Owner").
+
+   The Software was developed solely for the internal operations of the
+   Faculty of Science, Prince of Songkla University, Hat Yai Campus and
+   its affiliated student clubs and organizations.
+
+2. PERMITTED USE
+
+   Subject to the terms of this License, the Owner grants the following
+   parties a limited, non-exclusive, non-transferable right to USE the
+   Software solely for its intended purpose:
+
+   a) Students enrolled in the Faculty of Science, Prince of Songkla
+      University, Hat Yai Campus.
+
+   b) Officially registered clubs and organizations operating under the
+      Faculty of Science Student Union, Prince of Songkla University,
+      Hat Yai Campus.
+
+   c) Faculty staff, administrators, and personnel of the Faculty of
+      Science, Prince of Songkla University, Hat Yai Campus.
+
+   This permission is limited to using the Software through its official
+   web interface. No other rights are granted.
+
+3. RESTRICTIONS
+
+   Without prior written permission from the Faculty of Science Student
+   Union, Prince of Songkla University, Hat Yai Campus, no person,
+   organization, or entity may:
+
+   a) COPY or reproduce any part of the Software, in whole or in part,
+      by any means or in any form.
+
+   b) MODIFY, adapt, translate, or create derivative works based on the
+      Software or any portion thereof.
+
+   c) DISTRIBUTE, publish, sublicense, sell, rent, lease, or otherwise
+      transfer the Software or any rights therein to any third party.
+
+   d) USE the Software, or any part thereof, for any commercial purpose,
+      revenue-generating activity, or financial gain.
+
+   e) REVERSE ENGINEER, decompile, disassemble, or attempt to derive the
+      source code of any compiled or deployed portion of the Software.
+
+   f) REMOVE or alter any copyright notice, license notice, or other
+      proprietary marking appearing in or on the Software.
+
+   g) DEPLOY or host the Software or any modified version thereof on any
+      infrastructure other than that officially sanctioned by the Owner.
+
+4. REQUEST FOR PERMISSION
+
+   Any request for permission to use the Software beyond the scope
+   described in Section 2 — including but not limited to adaptation,
+   redistribution, or commercial use — must be submitted in writing to:
+
+      สโมสรนักศึกษาคณะวิทยาศาสตร์
+      มหาวิทยาลัยสงขลานครินทร์ วิทยาเขตหาดใหญ่
+      Faculty of Science, Prince of Songkla University
+      Hat Yai Campus, Songkhla, Thailand 90110
+
+   The Owner reserves the right to grant or refuse any such request at
+   its sole discretion.
+
+5. ACADEMIC USE & ATTRIBUTION
+
+   Reference to this project in academic work, presentations, or research
+   is permitted provided that proper attribution is given to:
+
+      "SSC — Science Student Central System,
+       Faculty of Science Student Union,
+       Prince of Songkla University, Hat Yai Campus (2025)"
+
+   Such reference does not constitute permission to copy, modify, or
+   redistribute any part of the Software.
+
+6. NO WARRANTY
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+   EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
+
+   IN NO EVENT SHALL THE OWNER OR CONTRIBUTORS BE LIABLE FOR ANY CLAIM,
+   DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF OR INABILITY TO
+   USE THE SOFTWARE.
+
+7. TERMINATION
+
+   Any rights granted under this License terminate automatically and
+   immediately upon any violation of the terms stated herein. Upon
+   termination, the violating party must cease all use of the Software
+   and destroy any copies in their possession.
+
+8. GOVERNING LAW
+
+   This License shall be governed by and construed in accordance with the
+   laws of the Kingdom of Thailand. Any dispute arising under this License
+   shall be subject to the jurisdiction of the courts of Thailand.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ข้อมูลเพิ่มเติมภาษาไทย / Thai Summary
+
+ซอฟต์แวร์นี้เป็นทรัพย์สินของสโมสรนักศึกษาคณะวิทยาศาสตร์
+มหาวิทยาลัยสงขลานครินทร์ วิทยาเขตหาดใหญ่ สงวนลิขสิทธิ์ทุกประการ
+
+ห้ามมิให้ผู้ใดทำการ คัดลอก ดัดแปลง เผยแพร่ จำหน่าย หรือนำไปใช้เพื่อ
+แสวงหารายได้ ไม่ว่าในรูปแบบใดก็ตาม โดยมิได้รับอนุญาตเป็นลายลักษณ์อักษร
+จากสโมสรนักศึกษาคณะวิทยาศาสตร์ มหาวิทยาลัยสงขลานครินทร์
+วิทยาเขตหาดใหญ่ ก่อน
+
+การฝ่าฝืนข้อกำหนดดังกล่าวอาจมีความรับผิดตามกฎหมายลิขสิทธิ์แห่ง
+ราชอาณาจักรไทย
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SSC — Science Student Central System
+Faculty of Science Student Union
+Prince of Songkla University, Hat Yai Campus
+Songkhla, Thailand 90110
+Academic Year 2026
